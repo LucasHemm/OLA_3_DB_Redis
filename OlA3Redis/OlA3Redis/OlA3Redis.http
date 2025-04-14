@@ -1,0 +1,6 @@
+@OlA3Redis_HostAddress = http://localhost:5029
+
+GET {{OlA3Redis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
